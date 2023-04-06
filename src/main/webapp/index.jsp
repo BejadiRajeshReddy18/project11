@@ -19,7 +19,6 @@
       line-height: 22px;
       }
       h1 {
-      font-family: cursive
       position: absolute;
       margin: 0;
       font-size: 60px;
