@@ -10,7 +10,7 @@
       min-height: 100%;
       }
       body, div, form, input, select, p {
-      padding: 5;
+      padding: 0;
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
